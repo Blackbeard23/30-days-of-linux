@@ -3,12 +3,12 @@
 ## Objective
 
 What was the goal for today?
-
+- File content search and text processing
 ---
 
 ## What I Learned
 
-- 
+- `grep` - search for text
 - 
 - 
 
@@ -43,4 +43,3 @@ What was the goal for today?
 
 ## Output
 
-(Include links, screenshots, code snippets, or results)
