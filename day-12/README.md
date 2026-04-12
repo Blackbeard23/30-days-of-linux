@@ -3,12 +3,12 @@
 ## Objective
 
 What was the goal for today?
-
+- File content search and text processing
 ---
 
 ## What I Learned
 
-- 
+- `find` - locate files by name or type
 - 
 - 
 
