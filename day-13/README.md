@@ -3,12 +3,12 @@
 ## Objective
 
 What was the goal for today?
-
+- Sorting, Counting, and Filtering Data
 ---
 
 ## What I Learned
 
-- 
+- `sort` - sort lines of text files
 - 
 - 
 
@@ -43,4 +43,4 @@ What was the goal for today?
 
 ## Output
 
-(Include links, screenshots, code snippets, or results)
+
