@@ -8,7 +8,7 @@ What was the goal for today?
 
 ## What I Learned
 
-- 
+- `less` - shows content stored in a file in a nice and interactive UI
 - 
 - 
 
