@@ -8,7 +8,7 @@ What was the goal for today?
 
 ## What I Learned
 
-- 
+- `echo` - prints to the output the argument passed to it
 - 
 - 
 
@@ -16,8 +16,13 @@ What was the goal for today?
 
 ## What I Built / Practiced
 
-- 
-- 
+- output argument using `echo`
+- append output to a file
+```sh
+man echo
+echo "hello"
+echo "hello" >> today.txt
+```
 
 ---
 
@@ -30,7 +35,7 @@ What was the goal for today?
 
 ## Key Takeaways
 
-- 
+- How to output an argument
 - 
 
 ---
@@ -43,4 +48,3 @@ What was the goal for today?
 
 ## Output
 
-(Include links, screenshots, code snippets, or results)
