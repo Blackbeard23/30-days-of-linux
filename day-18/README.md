@@ -8,7 +8,7 @@ What was the goal for today?
 
 ## What I Learned
 
-- 
+- `uniq` - commands used to sort lines. It only detect adjacent duplicates lines
 - 
 - 
 
