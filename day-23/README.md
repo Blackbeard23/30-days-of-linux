@@ -8,7 +8,7 @@ What was the goal for today?
 
 ## What I Learned
 
-- 
+- `history`
 - 
 - 
 
